@@ -15,4 +15,4 @@ The back end exposes RESTful endpoints that support full CRUD operations for app
 # front-end repository
 For full project detail documentation, please refer to the front-end repository
 
-Front-End Repo Link: https://github.com/K2222810/trace-front-end
+Front-End Repo Link: https://github.com/SAGrika08/trace-back-end
